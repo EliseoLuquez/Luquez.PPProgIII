@@ -1,0 +1,12 @@
+{
+    "name": "lelis/modeloparcial",
+    "authors": [
+        {
+            "name": "eliseo",
+            "email": "leliseo89@hotmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^5.2"
+    }
+}
